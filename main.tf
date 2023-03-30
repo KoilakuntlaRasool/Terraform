@@ -1,7 +1,5 @@
 provider "aws" {
   region     = "ap-south-1"
-  access_key = "AKIARZAPQRIQV663MEEH"
-  secret_key = "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"
 }
 
 variable "cidr_blocks" {
